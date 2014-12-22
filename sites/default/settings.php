@@ -217,7 +217,7 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'cvriver',
+      'database' => 'river',
       'username' => 'cvriver',
       'password' => 'steelhead',
       'host' => 'localhost',
@@ -258,7 +258,7 @@ $update_free_access = FALSE;
  *   $drupal_hash_salt = file_get_contents('/home/example/salt.txt');
  *
  */
-$drupal_hash_salt = '81YMl5jpN2S62xURxhn2x9mRY724gpsY7I-KAF_8nG4';
+$drupal_hash_salt = 'HgBNRzNvWtqsNvSFnLHi5NBL4GKDQ3jhhnxzJzL-vxw';
 
 /**
  * Base URL (optional).
